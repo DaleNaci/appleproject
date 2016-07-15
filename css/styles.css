@@ -1,11 +1,5 @@
-@font-face {
-	font-family: "Bebas Neue","Regular";
-	src: url(fonts/BebasNeueRegular.ttf);
-}
-
 body {
-	font-family: "Bebas Neue","Regular";
-	letter-spacing: .5px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	margin-bottom: 80px;
 }
 
