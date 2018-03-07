@@ -1,0 +1,55 @@
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin-bottom: 80px;
+}
+
+.navcolor {
+	color: white;
+}
+
+.navheader {
+	font-size: 33px;
+}
+
+.navsections {
+	font-size: 18px;
+}
+
+.whiteJumbotron {
+	background-color: white;
+}
+
+.curvedEdges {
+	border-radius: 6px 6px 6px 6px;
+}
+
+.modal {
+	font-size: 20px;
+}
+
+.logoImage {
+	height: 27px;
+	width: 27px;
+	margin-top: 9px;
+}
+
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body {
+	padding-top: 0;
+}
+
+.featuredImg {
+	margin-bottom: 15px;
+	border-radius: 6px 6px 6px 6px;
+}
+
+#thinkDifferent {
+	font-size: 150px;
+}
+
+.eighteenPixels {
+	font-size: 18px;
+}
